@@ -1,2 +1,2 @@
-# Glosaeio
-Proyecto final 
+# Glosario
+Proyecto final
